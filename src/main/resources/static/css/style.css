@@ -72,6 +72,10 @@ a {
     align-items: center;
 }
 
+.detail .form-label, .form-nadpis {
+    color: white;
+}
+
 .mapa {
     width: 36em;
     height: 36em;
